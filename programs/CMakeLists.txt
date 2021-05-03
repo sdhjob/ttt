@@ -1,0 +1,5 @@
+add_subdirectory( nodesou )
+add_subdirectory( clsou )
+add_subdirectory( ksoud )
+add_subdirectory( sou-launcher )
+add_subdirectory( sou-blocklog )

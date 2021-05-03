@@ -1,0 +1,7 @@
+#include <sou/chain/genesis_state.hpp>
+
+namespace sou { namespace chain {
+
+const string genesis_state::sou_root_key = "${SOU_ROOT_KEY}";
+
+} } // namespace sou::chain
